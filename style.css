@@ -57,7 +57,7 @@ body {
 
 .box span {
     position: absolute;
-    inset: 5s;
+    inset: 5px;
     background: #0c1022;
     border-radius: 16px;
     z-index: 1;
